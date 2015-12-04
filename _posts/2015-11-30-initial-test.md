@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting up site"
+title: "Setting up"
 date: 2014-11-30
 ---
 
