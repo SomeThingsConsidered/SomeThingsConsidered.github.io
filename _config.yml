@@ -1,5 +1,7 @@
 title: Some Things Considered
 name: Some Things Considered
+description: Matt Cannon's Analytics Blog
+url: http://somethingsconsidered.github.io/
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
