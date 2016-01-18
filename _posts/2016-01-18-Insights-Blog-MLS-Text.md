@@ -7,4 +7,4 @@ I recently added an entry to CoreLogic's Insights blog which examined <a href="h
 
 The R code estimating the regression (using glmnet) and generating word clouds of the most important words can be found <a href="https://github.com/SomeThingsConsidered/MLS_text_analysis/blob/master/hedonic_regression_1.R" a> here. </a>
 
-I also created code to identify listings containing a specific word, and then printed the entire realtor comment containing the word.  This was useful in examining the context in which a word was used (i.e. "swamp" was used describe a cooling method-- swamp coolers).  Code <a href = "https://github.com/SomeThingsConsidered/MLS_text_analysis/blob/master/check_corpus_entries.R" a> can be found here. </a> 
+I also created code to identify listings containing a specific word, and then print the entire realtor comment containing the word.  This was useful in examining the context in which a word was used (i.e. "swamp" was used describe a cooling method-- swamp coolers).  Code <a href = "https://github.com/SomeThingsConsidered/MLS_text_analysis/blob/master/check_corpus_entries.R" a> can be found here. </a> 
