@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insights Blog: Realtor Comments and Hedonic Regression"
+title: "Insights Blog: Realtor Comments and Property Condition"
 date: 2016-10-17
 ---
 Back in July,  added an entry to CoreLogic's Insights blog looking at <a href="http://www.corelogic.com/blog/authors/matt-cannon/2016/07/turning-words-into-data-part-ii.aspx#.WATNupMrKgQ" a> realtor comments for distressed listings. </a>
